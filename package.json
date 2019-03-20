@@ -1,0 +1,9 @@
+{
+  "name": "react-spinners",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rbuzatto/react-spinners.git",
+  "author": "rbuzatto <mightyrafa@gmail.com>",
+  "keywords": ["react", "css", "spinners"],
+  "license": "MIT"
+}
